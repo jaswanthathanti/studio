@@ -68,7 +68,7 @@ export default function LandingPage({ darkMode }) {
           className="d-flex justify-content-center mb-4"
         >
           <img
-            src="public\logo.png"
+            src="public/logo.png"
             alt="AbiStudio Logo"
             style={{
               width: "clamp(150px, 30vw, 300px)",
