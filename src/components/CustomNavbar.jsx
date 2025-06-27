@@ -22,7 +22,7 @@ export default function CustomNavbar({
           className="fw-bold d-flex align-items-center"
         >
           <img
-            src="public/logo.png"
+            src="src\assets\img\logo.png"
             alt="AbiStudio Logo"
             style={{ width: "30px", height: "30px", marginRight: "10px" }}
           />
